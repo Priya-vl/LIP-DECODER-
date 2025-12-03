@@ -10,3 +10,4 @@ deep-translator
 sounddevice
 scipy
 moviepy
+mediapipe
